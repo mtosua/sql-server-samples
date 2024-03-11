@@ -1,7 +1,9 @@
 ![](./media/solutions-microsoft-logo-small.png)
 
 # Azure Data SQL Samples Repository
+
 #Este es README.md en develop
+
 This GitHub repository contains code samples that demonstrate how to use Microsoft's Azure Data products including SQL Server, Azure SQL Database, Azure Synapse, and Azure SQL Edge. Each sample includes a README file that explains how to run and use the sample.
 
 Please note that specific features, such as In-Memory OLTP, are edition-specific for SQL Server. These features will only be available if the edition that supports them is used to run the sample.
